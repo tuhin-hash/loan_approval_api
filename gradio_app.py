@@ -9,6 +9,7 @@ def predict_loan(
         self_employed,
         income_annum,
         loan_amount,
+
         loan_term,
         cibil_score,
         residential_assets_value,
